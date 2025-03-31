@@ -1,0 +1,17 @@
+{
+  "data" : [
+    {
+      "emailAddress": "invalid",
+      "password":  "Test123"
+    },
+
+    {
+      "emailAddress": "automationframeworkcreation@yopmail.com",
+      "password":  "Test123"
+    }
+  ]
+
+
+
+
+}
