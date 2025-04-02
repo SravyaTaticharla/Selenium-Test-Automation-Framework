@@ -1,4 +1,4 @@
-Test Automation Framework
+## Test Automation Framework ##
 
 This is a Java-based Test Automation Framework that uses TestNG, OpenCSV, Apache POI, Gson, and Faker for testing, data-driven execution, and fake data generation.
 
